@@ -1,3 +1,4 @@
+## NO LONGER MAINTAINED ##
+
 # Squid #
 EconLab API
-https://api.econlab.io/
